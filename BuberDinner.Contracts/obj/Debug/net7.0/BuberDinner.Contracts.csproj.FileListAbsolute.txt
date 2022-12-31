@@ -1,0 +1,12 @@
+/home/greg/Development/Projects/BuberDinner/BuberDinner.Contracts/bin/Debug/net7.0/BuberDinner.Contracts.deps.json
+/home/greg/Development/Projects/BuberDinner/BuberDinner.Contracts/bin/Debug/net7.0/BuberDinner.Contracts.dll
+/home/greg/Development/Projects/BuberDinner/BuberDinner.Contracts/bin/Debug/net7.0/BuberDinner.Contracts.pdb
+/home/greg/Development/Projects/BuberDinner/BuberDinner.Contracts/obj/Debug/net7.0/BuberDinner.Contracts.csproj.AssemblyReference.cache
+/home/greg/Development/Projects/BuberDinner/BuberDinner.Contracts/obj/Debug/net7.0/BuberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/greg/Development/Projects/BuberDinner/BuberDinner.Contracts/obj/Debug/net7.0/BuberDinner.Contracts.AssemblyInfoInputs.cache
+/home/greg/Development/Projects/BuberDinner/BuberDinner.Contracts/obj/Debug/net7.0/BuberDinner.Contracts.AssemblyInfo.cs
+/home/greg/Development/Projects/BuberDinner/BuberDinner.Contracts/obj/Debug/net7.0/BuberDinner.Contracts.csproj.CoreCompileInputs.cache
+/home/greg/Development/Projects/BuberDinner/BuberDinner.Contracts/obj/Debug/net7.0/BuberDinner.Contracts.dll
+/home/greg/Development/Projects/BuberDinner/BuberDinner.Contracts/obj/Debug/net7.0/refint/BuberDinner.Contracts.dll
+/home/greg/Development/Projects/BuberDinner/BuberDinner.Contracts/obj/Debug/net7.0/BuberDinner.Contracts.pdb
+/home/greg/Development/Projects/BuberDinner/BuberDinner.Contracts/obj/Debug/net7.0/ref/BuberDinner.Contracts.dll

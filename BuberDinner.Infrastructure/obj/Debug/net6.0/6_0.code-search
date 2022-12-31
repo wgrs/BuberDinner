@@ -1,0 +1,45 @@
+# Query: 6.0
+# ContextLines: 1
+
+13 results - 9 files
+
+BuberDinner.Api/obj/Debug/net7.0/project.razor.json:
+  4      "ConfigurationName": "MVC-3.0",
+  5:     "LanguageVersion": "7.0",
+  6      "Extensions": [
+
+BuberDinner.Application/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs:
+  3  using System.Reflection;
+  4: [assembly: global::System.Runtime.Versioning.TargetFrameworkAttribute(".NETCoreApp,Version=v7.0", FrameworkDisplayName = ".NET 6.0")]
+
+BuberDinner.Application/obj/Debug/net7.0/BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig:
+  1  is_global = true
+  2: build_property.TargetFramework = net7.0
+  3  build_property.TargetPlatformMinVersion = 
+
+BuberDinner.Contracts/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs:
+  3  using System.Reflection;
+  4: [assembly: global::System.Runtime.Versioning.TargetFrameworkAttribute(".NETCoreApp,Version=v6.0", FrameworkDisplayName = ".NET 6.0")]
+
+BuberDinner.Contracts/obj/Debug/net7.0/BuberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig:
+  1  is_global = true
+  2: build_property.TargetFramework = net6.0
+  3  build_property.TargetPlatformMinVersion = 
+
+BuberDinner.Domain/obj/Debug/net7.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs:
+  3  using System.Reflection;
+  4: [assembly: global::System.Runtime.Versioning.TargetFrameworkAttribute(".NETCoreApp,Version=v6.0", FrameworkDisplayName = ".NET 6.0")]
+
+BuberDinner.Domain/obj/Debug/net7.0/BuberDinner.Domain.GeneratedMSBuildEditorConfig.editorconfig:
+  1  is_global = true
+  2: build_property.TargetFramework = net7.0
+  3  build_property.TargetPlatformMinVersion = 
+
+BuberDinner.Infrastructure/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs:
+  3  using System.Reflection;
+  4: [assembly: global::System.Runtime.Versioning.TargetFrameworkAttribute(".NETCoreApp,Version=v7.0", FrameworkDisplayName = ".NET 6.0")]
+
+BuberDinner.Infrastructure/obj/Debug/net7.0/BuberDinner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig:
+  1  is_global = true
+  2: build_property.TargetFramework = net7.0
+  3  build_property.TargetPlatformMinVersion = 

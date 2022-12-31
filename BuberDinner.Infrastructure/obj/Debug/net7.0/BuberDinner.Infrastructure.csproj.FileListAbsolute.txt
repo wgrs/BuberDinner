@@ -1,0 +1,17 @@
+/home/greg/Development/Projects/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net7.0/BuberDinner.Infrastructure.deps.json
+/home/greg/Development/Projects/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net7.0/BuberDinner.Infrastructure.dll
+/home/greg/Development/Projects/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net7.0/BuberDinner.Infrastructure.pdb
+/home/greg/Development/Projects/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net7.0/BuberDinner.Application.dll
+/home/greg/Development/Projects/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net7.0/BuberDinner.Domain.dll
+/home/greg/Development/Projects/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net7.0/BuberDinner.Application.pdb
+/home/greg/Development/Projects/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net7.0/BuberDinner.Domain.pdb
+/home/greg/Development/Projects/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net7.0/BuberDinner.Infrastructure.csproj.AssemblyReference.cache
+/home/greg/Development/Projects/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net7.0/BuberDinner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/greg/Development/Projects/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net7.0/BuberDinner.Infrastructure.AssemblyInfoInputs.cache
+/home/greg/Development/Projects/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net7.0/BuberDinner.Infrastructure.AssemblyInfo.cs
+/home/greg/Development/Projects/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net7.0/BuberDinner.Infrastructure.csproj.CoreCompileInputs.cache
+/home/greg/Development/Projects/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net7.0/BuberDinner.Infrastructure.csproj.CopyComplete
+/home/greg/Development/Projects/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net7.0/BuberDinner.Infrastructure.dll
+/home/greg/Development/Projects/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net7.0/refint/BuberDinner.Infrastructure.dll
+/home/greg/Development/Projects/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net7.0/BuberDinner.Infrastructure.pdb
+/home/greg/Development/Projects/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net7.0/ref/BuberDinner.Infrastructure.dll
