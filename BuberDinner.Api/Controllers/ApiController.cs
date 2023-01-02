@@ -14,12 +14,14 @@ public class ApiController : ControllerBase
             return Problem();
         }
 
+
         if (errors.All(error => error.Type == ErrorType.Validation))
         {
             return ValidationProblem(errors);
         }
 
-        return Problem();
+
+        return Problem(errors[0]);
     }
 
     private IActionResult ValidationProblem(List<Error> errors)
