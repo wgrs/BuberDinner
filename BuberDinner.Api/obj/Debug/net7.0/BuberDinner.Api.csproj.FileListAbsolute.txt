@@ -3,6 +3,7 @@
 /home/greg/Development/Projects/BuberDinner/BuberDinner.Api/obj/Debug/net7.0/BuberDinner.Api.AssemblyInfoInputs.cache
 /home/greg/Development/Projects/BuberDinner/BuberDinner.Api/obj/Debug/net7.0/BuberDinner.Api.AssemblyInfo.cs
 /home/greg/Development/Projects/BuberDinner/BuberDinner.Api/obj/Debug/net7.0/BuberDinner.Api.csproj.CoreCompileInputs.cache
+/home/greg/Development/Projects/BuberDinner/BuberDinner.Api/obj/Debug/net7.0/BuberDinner.Api.MvcApplicationPartsAssemblyInfo.cs
 /home/greg/Development/Projects/BuberDinner/BuberDinner.Api/obj/Debug/net7.0/BuberDinner.Api.MvcApplicationPartsAssemblyInfo.cache
 /home/greg/Development/Projects/BuberDinner/BuberDinner.Api/bin/Debug/net7.0/appsettings.Development.json
 /home/greg/Development/Projects/BuberDinner/BuberDinner.Api/bin/Debug/net7.0/appsettings.json
@@ -12,6 +13,9 @@
 /home/greg/Development/Projects/BuberDinner/BuberDinner.Api/bin/Debug/net7.0/BuberDinner.Api.dll
 /home/greg/Development/Projects/BuberDinner/BuberDinner.Api/bin/Debug/net7.0/BuberDinner.Api.pdb
 /home/greg/Development/Projects/BuberDinner/BuberDinner.Api/bin/Debug/net7.0/ErrorOr.dll
+/home/greg/Development/Projects/BuberDinner/BuberDinner.Api/bin/Debug/net7.0/FluentValidation.dll
+/home/greg/Development/Projects/BuberDinner/BuberDinner.Api/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+/home/greg/Development/Projects/BuberDinner/BuberDinner.Api/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
 /home/greg/Development/Projects/BuberDinner/BuberDinner.Api/bin/Debug/net7.0/Mapster.dll
 /home/greg/Development/Projects/BuberDinner/BuberDinner.Api/bin/Debug/net7.0/Mapster.Core.dll
 /home/greg/Development/Projects/BuberDinner/BuberDinner.Api/bin/Debug/net7.0/Mapster.DependencyInjection.dll
